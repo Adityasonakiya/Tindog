@@ -32,9 +32,6 @@ h3{
   padding: 3% 15%;
 }
 
-.btn btn-outline-secondary{
-  color: white;
-}
 
 #title{
   background-color: #ff4c68;
@@ -114,6 +111,11 @@ h3{
   margin:20px;
 }
 
+.carousel-item{
+  padding: 7% 15%;
+}
+
+/* Press section*/
 #press{
   background-color: #ef8172;
   text-align: center;
@@ -123,10 +125,6 @@ h3{
 .press-logo{
   width: 15%;
   margin:20px 20px 50px;
-}
-
-.carousel-item{
-  padding: 7% 15%;
 }
 
 
