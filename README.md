@@ -3,7 +3,14 @@ A tinder like Website for Dogs
 Used Only HTML | CSS in it.\
 Files used:
 1-index.html
-2-style.css
+2-style.css \
+index.html: The following HTML code describes the structure of the webpage. First of all it has an header tag to display the title of the company which is “Meet new and interesting dogs nearby.”. The navigation bar contains tabs of “Contact”, “Pricing” and “Download” . The navigation bar also consists of the logo of the company followed by the background image with some more details of the “tindog” .
+
+style.css: This is the stylesheet block which gives us the proper look of the webpage.\
+Header styling: It consists of two “head” tags. We have used font-style “Ubuntu” and "Montserrat" to style the header and we also used proper colors to make some text look attractive.\
+Navigation bar styling: It basically consists of logo styling and content styling. First of all we have considered the navigation bar as a "Container-fluid". 
+
+
 <hr>
 <h1>ScreenShot Of Website</h1>
 <h3> Main Title Page of the Website which contains the branding Tindog and downloading options on Android and IOS.</h3>
